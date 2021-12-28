@@ -10,7 +10,7 @@ Then execute
     
     node index.js
 
-Then we can access to server in
+We can access to server in
 
 > http://localhost:4000/
 
