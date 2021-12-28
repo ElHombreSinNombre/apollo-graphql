@@ -5,6 +5,7 @@ This a basic example to know how work **[GraphQL](https://graphql.org/)**.
 Execute
 
     npm install
+    node index.js
 
 Then we can access to server in
 
