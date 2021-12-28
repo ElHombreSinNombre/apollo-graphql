@@ -1,6 +1,6 @@
 ## GraphQL
 
-This a basic example to know how work **[GraphQL](https://graphql.org/)**
+This a basic example to know how work **[GraphQL](https://graphql.org/)**.
 
 Execute
 
